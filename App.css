@@ -1,0 +1,137 @@
+/* General Styles */
+.app-container {
+  font-family: 'Arial', sans-serif;
+  background-color: #f0f4f8;  /* Light grey background */
+  color: #333; /* Dark text color for contrast */
+  text-align: center;
+  padding: 50px 20px;
+  min-height: 100vh;
+}
+
+/* Header Styles */
+.header {
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  border-bottom: 2px solid #ececec;
+}
+
+.logo {
+  width: 150px;
+  height: auto;
+  margin-bottom: 15px;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #4c79e0;  /* Blue Color */
+}
+
+/* Form Styling */
+.form-container {
+  display: inline-block;
+  text-align: left;
+  margin-top: 30px;
+  background-color: #ffffff;  /* White background for form */
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.form-container input {
+  width: 300px;
+  padding: 12px;
+  margin: 10px 0;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  font-size: 1rem;
+}
+
+.form-container input:focus {
+  border-color: #4c79e0;
+  outline: none;
+}
+
+.form-buttons button {
+  width: 160px;
+  padding: 12px;
+  margin: 10px;
+  border: none;
+  border-radius: 6px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.generate-btn {
+  background-color: #28a745; /* Green button */
+  color: white;
+}
+
+.reset-btn {
+  background-color: #dc3545; /* Red button */
+  color: white;
+}
+
+/* Travel History Section */
+.travel-history-container {
+  margin-top: 40px;
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.travel-history-container input {
+  width: 200px;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  font-size: 1rem;
+}
+
+.add-travel-btn {
+  padding: 10px 20px;
+  background-color: #007bff; /* Blue button */
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+/* QR Code Section */
+.qr-container {
+  margin-top: 30px;
+  text-align: center;
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.download-btn {
+  padding: 12px 25px;
+  background-color: #17a2b8; /* Teal button */
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.travel-history ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.travel-history li {
+  background-color: #f8f9fa;
+  padding: 12px;
+  margin: 5px 0;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+}
+
+/* Button Hover Effects */
+button:hover {
+  opacity: 0.9;
+  transform: scale(1.05);
+  transition: 0.3s;
+}
