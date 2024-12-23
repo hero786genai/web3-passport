@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.df388c74.css",
-    "main.js": "/static/js/main.9917c61c.js",
-    "static/js/156.41e4b39d.chunk.js": "/static/js/156.41e4b39d.chunk.js",
-    "index.html": "/index.html",
-    "main.df388c74.css.map": "/static/css/main.df388c74.css.map",
-    "main.9917c61c.js.map": "/static/js/main.9917c61c.js.map",
-    "156.41e4b39d.chunk.js.map": "/static/js/156.41e4b39d.chunk.js.map"
+    "main.css": "/web3-passport/static/css/main.df388c74.css",
+    "main.js": "/web3-passport/static/js/main.a7b00859.js",
+    "static/js/156.41e4b39d.chunk.js": "/web3-passport/static/js/156.41e4b39d.chunk.js",
+    "index.html": "/web3-passport/index.html",
+    "main.df388c74.css.map": "/web3-passport/static/css/main.df388c74.css.map",
+    "main.a7b00859.js.map": "/web3-passport/static/js/main.a7b00859.js.map",
+    "156.41e4b39d.chunk.js.map": "/web3-passport/static/js/156.41e4b39d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.df388c74.css",
-    "static/js/main.9917c61c.js"
+    "static/js/main.a7b00859.js"
   ]
 }
