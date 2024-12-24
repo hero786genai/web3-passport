@@ -16,7 +16,7 @@ The Web3 Passport Prototype is a decentralized application (DApp) concept that a
 - **Local Storage**: For storing user data.
 
 ## How to Use
-You can interact with my project directly from here 👇
+You can interact with my deployed project directly from here 👇
 https://hero786genai.github.io/web3-passport/
 
 The app will open at http://localhost:3000 in your browser.
