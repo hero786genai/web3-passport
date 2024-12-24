@@ -19,10 +19,5 @@ The Web3 Passport Prototype is a decentralized application (DApp) concept that a
 You can interact with my deployed project directly from here 👇
 https://hero786genai.github.io/web3-passport/
 
-The app will open at http://localhost:3000 in your browser.
-
-Notes:
-Ensure you have Node.js and npm installed on your machine.
-
 ![Screenshot 2024-12-23 191409](https://github.com/user-attachments/assets/26c280c7-0de1-4f14-b67f-107f40e6b89d)
 
